@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "chroma-js": "./chroma-js.js"
+  }
+}
